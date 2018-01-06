@@ -4,7 +4,7 @@ This project is a sample project for docbase-pdf-sample.
 
 このプロジェクトは、docbase-pdf-sampleのサンプルプロジェクトです。
 
-https://github.com/YukiFujisawa/docbase-pdf
+https://www.npmjs.com/package/docbase-pdf
 
 ## Getting Started
 
